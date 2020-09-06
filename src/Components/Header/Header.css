@@ -1,0 +1,9 @@
+.classes{
+    background-color: rgb(246, 42, 42);
+}
+.container{
+    font-size:20px;
+}
+.BottomNavigationAction label{
+    font-size: 40px;
+}
